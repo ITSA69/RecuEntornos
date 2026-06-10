@@ -9,9 +9,13 @@ package dam_ed04_actividad;
 
 import Cuentas.CCuenta;
 
-
+/**
+ * Clase Main del Proyecto
+ * @author Sergio Iturbe Sánchez
+ */
 public class Main {
 
+    
     public static void main(String[] args) {
         CCuenta miCuenta;
         double saldoActual;
